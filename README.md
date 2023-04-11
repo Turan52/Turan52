@@ -9,7 +9,7 @@ My name is Ravan and I am a student with a passion for technology, specifically 
 * 🌍  I'm based in Poland
 * 🚀  I'm currently working on [PostFix](http://ubuntu.com/server/docs/mail-postfix) and [LVM](https://wiki.ubuntu.com/Lvm)
 * 🧠  I'm learning Python
-### Socials
+
 
 <p align="left"> <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <img src="https://user-images.githubusercontent.com/105795532/225994240-9c199660-eff3-43e4-9cf6-7baaeed26c7f.jpg" />
