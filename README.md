@@ -11,7 +11,7 @@ My name is Ravan and I am a student with a passion for technology, specifically 
 * 🧠  I'm learning Python
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ravan-huseynli-156520249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <img src="https://user-images.githubusercontent.com/105795532/225994240-9c199660-eff3-43e4-9cf6-7baaeed26c7f.jpg" />
 
 
