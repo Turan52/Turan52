@@ -7,7 +7,7 @@ Linux Administrator
 My name is Ravan and I am a student with a passion for technology, specifically Linux Administration. I love to dive into new experiences and learn as much as I can about anything that interests me. As a Linux Administrator, I have gained proficiency in managing and maintaining various Linux-based systems, including server setup and maintenance, troubleshooting, and security hardening. I am constantly looking to expand my knowledge in this field and stay up-to-date with the latest tools and technologies.
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on Python/Linux Scripts and [LVM](https://wiki.ubuntu.com/Lvm)
+* 🚀  I'm currently working on Python/Linux Scripts 
 * 🧠  I'm learning Python
 
 
