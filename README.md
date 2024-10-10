@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux Administrator
 -------------------
 
-My name is Ravan and I am a student with a passion for technology, specifically Linux Administration. I love to dive into new experiences and learn as much as I can about anything that interests me. As a Linux Administrator, I have gained proficiency in managing and maintaining various Linux-based systems, including server setup and maintenance, troubleshooting, and security hardening. I am constantly looking to expand my knowledge in this field and stay up-to-date with the latest tools and technologies.
+My name is Ravan, and I am a student with a passion for technology, particularly Linux Administration. I enjoy diving into new experiences and expanding my knowledge on topics that pique my interest. As a Linux Administrator, I am proficient in managing and maintaining a variety of Linux-based systems. This includes server setup and maintenance, troubleshooting, and security hardening. I am always eager to enhance my skills and stay current with the latest tools and technologies in this field.
+
 
 * 🌍  I'm based in Poland
 * 🚀  I'm currently working on Python/Linux Scripts 
