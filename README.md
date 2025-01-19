@@ -8,7 +8,7 @@ My name is Ravan, and I am a student with a passion for technology, particularly
 
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on Python/Linux Scripts 
+* 🚀  I'm currently working on Python/Linux Scripts and AI
 * 🧠  I'm learning Python
 
 
