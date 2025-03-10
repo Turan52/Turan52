@@ -15,7 +15,7 @@ My name is Ravan, a student with a strong passion for technology, especially Lin
 
 <p align="left"> <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <img src="https://user-images.githubusercontent.com/105795532/225994240-9c199660-eff3-43e4-9cf6-7baaeed26c7f.jpg" />
-<img src="https://yt3.googleusercontent.com/V2j9tiXpRo4QyMNL5T-aompLEzNsNLCjjZcAyfa0qoxvdAsJBOgaxxkuOs4aqT38-YL3Ak3PmS0=s900-c-k-c0x00ffffff-no-rj" alt="Image description">
+<img src="https://yt3.googleusercontent.com/V2j9tiXpRo4QyMNL5T-aompLEzNsNLCjjZcAyfa0qoxvdAsJBOgaxxkuOs4aqT38-YL3Ak3PmS0=s900-c-k-c0x00ffffff-no-rj" style="width:200px;" alt="Image description">
 
 
 
