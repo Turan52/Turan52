@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Linux Administrator
+Linux Administrator :)
 -------------------
 
 My name is Ravan, a student with a strong passion for technology, especially Linux administration. Exploring new challenges and expanding knowledge in areas of interest is something I truly enjoy. Experienced in managing and maintaining Linux-based systems, including server setup, troubleshooting, and security hardening. Also server setup and maintenance, troubleshooting, and security hardening. I am always eager to enhance my skills and stay current with the latest tools and technologies in this field.
@@ -18,9 +18,9 @@ My name is Ravan, a student with a strong passion for technology, especially Lin
 <img src="https://yt3.googleusercontent.com/V2j9tiXpRo4QyMNL5T-aompLEzNsNLCjjZcAyfa0qoxvdAsJBOgaxxkuOs4aqT38-YL3Ak3PmS0=s900-c-k-c0x00ffffff-no-rj" width="200" alt="Profile image">
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Turan52&show_icons=true&theme=radical" />
+<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Turan52&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turan52&layout=compact" />
+<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turan52&layout=compact" />
 
 <img align="left" src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
