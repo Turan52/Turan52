@@ -18,9 +18,6 @@ My name is Ravan, a student with a strong passion for technology, especially Lin
 <img src="https://yt3.googleusercontent.com/V2j9tiXpRo4QyMNL5T-aompLEzNsNLCjjZcAyfa0qoxvdAsJBOgaxxkuOs4aqT38-YL3Ak3PmS0=s900-c-k-c0x00ffffff-no-rj" width="200" alt="Profile image">
 
 
-<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Turan52&show_icons=true&theme=radical" />
-
-
 <img align="left" src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
