@@ -9,7 +9,7 @@ My name is Ravan, a student with a strong passion for technology, especially Lin
 
 * 🌍  I'm based in Poland
 * 💻  I can work remote
-* 🚀  I'm currently working on Python/Linux Scripts and AI
+* 🚀  I'm currently working on Python/Linux Scripts and specifically AI
 
 <p align="left"> <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <img src="https://user-images.githubusercontent.com/105795532/225994240-9c199660-eff3-43e4-9cf6-7baaeed26c7f.jpg" />
