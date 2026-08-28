@@ -8,21 +8,33 @@ My name is Ravan, a student with a strong passion for technology, especially Lin
 - 💻 I can work remotely
 - 🚀 I'm currently working with Python, Terraform, and AI
 
-<p align="left">
-  <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24 height="24" alt="GitHub" />
-  </a>
-</p>
 
 <p align="left">
+  <a href="https://www.github.com/Turan52" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+         width="26"
+         height="26"
+         alt="GitHub"
+         align="middle" />
+  </a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="24" alt="Linux" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" height="24" alt="Fedora" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="24" alt="Ubuntu" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" height="24" alt="Terraform" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24" alt="Python" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" height="24" alt="Shell" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" height="24" alt="Vim" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" height="24" alt="C" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24" alt="MySQL" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" height="24" alt="Nextcloud" />
 </p>
